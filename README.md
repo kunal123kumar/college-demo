@@ -1,3 +1,4 @@
 # college-demo
-Frist Git Reposiyorty
-Author - Kunal kumar
+Frist Git Reposiyorty.
+<br>
+Author - Kunal kumar.
